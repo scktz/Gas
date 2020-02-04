@@ -1,0 +1,15 @@
+C:\Users\Liam\Desktop\Server Stuff\loader\custom\Loader\Loader\obj\Release\Loader.Form.resources
+C:\Users\Liam\Desktop\Server Stuff\loader\custom\Loader\Loader\obj\Release\Loader.Properties.Resources.resources
+C:\Users\Liam\Desktop\Server Stuff\loader\custom\Loader\Loader\obj\Release\Loader.csproj.GenerateResource.cache
+C:\Users\Liam\Desktop\Server Stuff\loader\custom\Loader\Loader\obj\Release\Loader.csproj.CoreCompileInputs.cache
+C:\Users\Liam\Desktop\Server Stuff\loader\custom\Loader\Loader\obj\Release\Loader.Form2.resources
+C:\Users\Liam\Desktop\Server Stuff\loader\custom\Loader\Loader\bin\Release\Loader.exe.config
+C:\Users\Liam\Desktop\Server Stuff\loader\custom\Loader\Loader\bin\Release\Loader.exe
+C:\Users\Liam\Desktop\Server Stuff\loader\custom\Loader\Loader\bin\Release\Loader.pdb
+C:\Users\Liam\Desktop\Server Stuff\loader\custom\Loader\Loader\obj\Release\Loader.exe
+C:\Users\Liam\Desktop\Server Stuff\loader\custom\Loader\Loader\obj\Release\Loader.pdb
+C:\Users\Liam\Desktop\Server Stuff\loader\custom\Loader\Loader\bin\Release\MetroFramework.Design.dll
+C:\Users\Liam\Desktop\Server Stuff\loader\custom\Loader\Loader\bin\Release\MetroFramework.dll
+C:\Users\Liam\Desktop\Server Stuff\loader\custom\Loader\Loader\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Liam\Desktop\Server Stuff\loader\custom\Loader\Loader\obj\Release\Loader.csproj.CopyComplete
+C:\Users\Liam\Desktop\Server Stuff\loader\custom\Loader\Loader\obj\Release\Loader.csprojAssemblyReference.cache
